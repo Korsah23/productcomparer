@@ -1,0 +1,24 @@
+.card {
+    width: 300px;
+    border: 1px solid #ccc;
+    transition: transform 400ms;
+    
+  }
+  .card:hover {
+    transform: scale(0.997);
+    background-color: lightgray;
+  }
+  .image-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .product-info {
+    padding: 5px;
+  }
+
+  img{
+    width: 100%;
+    height: 150px;
+  }

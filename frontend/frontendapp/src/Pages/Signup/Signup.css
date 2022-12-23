@@ -1,0 +1,36 @@
+.signup-form {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: sans-serif;
+    
+    
+    
+  }
+  
+  .form-title {
+    margin: 0 0 2px;
+    font-size: 32px;
+    font-weight: bold;
+  }
+  
+  .form-group {
+    margin: 10px 0;
+  }
+  
+  .form-group label {
+    display: block;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 10px 0 5px;
+  }
+  
+  .form-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    outline: none;
+  }
+  
